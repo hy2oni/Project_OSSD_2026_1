@@ -36,6 +36,7 @@
 ### 2. System context diagram
 
 ```
+![Image](https://github.com/user-attachments/assets/1263433b-856c-4ef7-a594-e7e1b3e9163d)
 <그림 1 : System context diagram>
 ```
 
